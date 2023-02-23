@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mai23016/static/css/main.87d6e283.css",
+    "main.js": "/mai23016/static/js/main.807b91e8.js",
+    "static/js/787.b0838a1c.chunk.js": "/mai23016/static/js/787.b0838a1c.chunk.js",
+    "static/media/car.jpg": "/mai23016/static/media/car.bb62425ce576ed65d0b4.jpg",
+    "static/media/phone.jpg": "/mai23016/static/media/phone.04d94f3681f7ad6c5100.jpg",
+    "static/media/laptop.jpeg": "/mai23016/static/media/laptop.ede6a41eec583c9bbcb1.jpeg",
+    "index.html": "/mai23016/index.html",
+    "main.87d6e283.css.map": "/mai23016/static/css/main.87d6e283.css.map",
+    "main.807b91e8.js.map": "/mai23016/static/js/main.807b91e8.js.map",
+    "787.b0838a1c.chunk.js.map": "/mai23016/static/js/787.b0838a1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d6e283.css",
+    "static/js/main.807b91e8.js"
+  ]
+}
